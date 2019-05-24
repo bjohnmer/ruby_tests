@@ -1,6 +1,8 @@
 # Admios Ruby Tests
 Ruby tests for Admios hiring process.
 
+[![Build Status](https://travis-ci.org/bjohnmer/ruby_tests.svg?branch=master)](https://travis-ci.org/bjohnmer/ruby_tests)
+
 ## Exercise 1
 Write a ruby method that reverses the odd-indexed characters of a string in place (without making a copy). Do not use the built-in reverse methods or similar (write the code to move the characters yourself). Sample output:
 						
